@@ -3,15 +3,16 @@
 ```javascript
 let sion = {
   pronouns: "He" | "Him",
-  languages: ["Javascript", "Typescript", "Python"],
+  languages: ["Javascript", "Typescript", "Python", "Bash"],
   technologies: {
     frontEnd: {
-      js: ["React", "Vainilla"],
-      styles: ["css", "styled componets", "bootstrap"]
+      js: ["React", "Vainilla", "Redux","Babel"],
+      styles: ["Css", "Styled Componets", "Bootstrap", "Sass", "Material UI"]
     },
-    BackEnd: { js: ["node", "express"] },
-    db: ["MySql", "sqlite"],
-  },
+    BackEnd: { js: ["Node", "Express"] },
+    db: ["MySql", "Sqlite"],
+    SO: ["Windows XP", "Arch Linux"]
+  }
 };
 ```
 
