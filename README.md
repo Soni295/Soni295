@@ -14,5 +14,5 @@ let sion = {
     SO: ["Windows XP", "Arch Linux"]
   }
 };
-[```
+```
 https://soni295.github.io/Profile/
